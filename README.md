@@ -3,8 +3,12 @@
   <p>A modern, responsive, and feature-rich personal portfolio website built with pure HTML, CSS, and JavaScript</p>
   
   <div style="margin: 20px 0;">
-    <a href="https://rifat.website" target="_blank">
+    <a href="https://mrshadowrifat.github.io/P2.Personal-HTML-portfolio/" target="_blank">
       <img alt="View Live Portfolio" src="https://img.shields.io/badge/LIVE_DEMO-Visit%20Portfolio-blueviolet?style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://rifat.website" target="_blank">
+      <img alt="Main Portfolio" src="https://img.shields.io/badge/Main%20Site-rifat.website-blue?style=for-the-badge">
     </a>
     &nbsp;
     <a href="https://github.com/MrShadowRIFAT" target="_blank">
